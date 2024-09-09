@@ -1,0 +1,23 @@
+{
+    "liveServer.settings.port": 5500,
+    "liveServer.settings.ChromeDebuggingAttachment": false,
+    "liveServer.settings.root": "",
+  
+    // Sass Compilation Settings
+    "liveSassCompile.settings.formats": [
+      {
+        "format": "expanded",
+        "extensionName": ".css",
+        "savePath": "/css"
+      }
+    ],
+  
+    "liveSassCompile.settings.autoprefix": [
+      "> 1%",
+      "last 2 versions",
+      "not dead"
+    ],
+  
+    "liveSassCompile.settings.generateMap": true, // This is optional; it generates a map file for easier debugging
+  }
+  
